@@ -1,0 +1,34 @@
+div.rodape{
+    margin: 0px;
+    background-color: #b84e4e;
+}
+div.corpoRodape{
+    background-color:  #3261a5;
+    width: 98%;
+    padding: 1%;
+}
+div.titulo{
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.0;
+    background:  #3261a5;
+    color: #FFF;
+    margin: 2px;
+    padding: 1px;
+    border: 2px solid rgb(80, 107, 199);
+}
+div.sub{
+    padding-right: 20px;
+}
+div.info{
+    padding-left: 120px;
+    padding-right: 140px;
+}
+div.cursos{
+    padding-left: 15px;
+}
+div.img{
+    padding-left: 120px;
+    padding-top: 50px;
+    object-fit: fill;
+}
